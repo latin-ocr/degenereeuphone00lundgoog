@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./degenereeuphone00lundgoog_0012.png"; bbox 0 0 775 1277; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 105 204 596 240">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 105 204 596 240">
+     <span class='ocr_line' id='line_1_1' title="bbox 105 204 596 240; baseline 0.006 -3"><span class='ocrx_word' id='word_1_1' title='bbox 105 204 306 238; x_wconf 78' lang='lat' dir='ltr'><strong>GENERE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 332 205 596 240; x_wconf 67' lang='lat' dir='ltr'><strong>Eumoxls</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 64 404 636 537">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 64 404 636 537">
+     <span class='ocr_line' id='line_1_2' title="bbox 64 404 636 430; baseline 0.01 -5"><span class='ocrx_word' id='word_1_3' title='bbox 64 404 108 425; x_wconf 83' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 125 404 297 426; x_wconf 58' lang='lat' dir='ltr'><strong>sumnum</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 311 405 443 427; x_wconf 69' lang='lat' dir='ltr'>CAxAus</span> <span class='ocrx_word' id='word_1_6' title='bbox 460 406 636 430; x_wconf 63' lang='lat' dir='ltr'><strong>mnas-nm-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 79 440 621 482; baseline 0.011 -6"><span class='ocrx_word' id='word_1_7' title='bbox 79 440 128 477; x_wconf 70' lang='lat' dir='ltr'><strong>us</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 148 445 335 478; x_wconf 60' lang='lat' dir='ltr'><strong>swavorum</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 353 457 388 478; x_wconf 67' lang='lat' dir='ltr'><strong>lx</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 400 457 510 481; x_wconf 76' lang='lat' dir='ltr'>nooez</span> <span class='ocrx_word' id='word_1_11' title='bbox 523 460 621 482; x_wconf 63' lang='lat' dir='ltr'><strong>ult!</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 244 508 417 537; baseline 0.017 -8"><span class='ocrx_word' id='word_1_12' title='bbox 244 535 247 537; x_wconf 24' lang='lat'><em>¹</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 286 508 417 532; x_wconf 68' lang='lat' dir='ltr'><strong>amm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 138 705 568 728">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 138 705 568 728">
+     <span class='ocr_line' id='line_1_5' title="bbox 138 705 568 728; baseline 0.014 -6"><span class='ocrx_word' id='word_1_14' title='bbox 138 706 176 723; x_wconf 59' lang='lat' dir='ltr'><strong>nn</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 194 705 295 724; x_wconf 66' lang='lat' dir='ltr'>Pssrssn</span> <span class='ocrx_word' id='word_1_16' title='bbox 312 707 464 726; x_wconf 63' lang='lat' dir='ltr'><strong>Ulmum!</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 476 708 568 728; x_wconf 67' lang='lat' dir='ltr'><strong>Issa</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
